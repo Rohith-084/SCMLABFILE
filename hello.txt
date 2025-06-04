@@ -1,3 +1,4 @@
 This is a sample file for Source Code Management.
 SCM is a 1 credit Lab course.
 Source Code Management is a mandatory course for CSE students.
+Source Code Management course is really helpful for students, because it teaches all the efficient ways that are used by experts especially for group projects.
