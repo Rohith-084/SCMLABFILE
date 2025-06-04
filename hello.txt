@@ -1,0 +1,3 @@
+This is a sample file for Source Code Management.
+Source Code Management is a 1 credit course.
+Source Code Management is a mandatory course for CSE students.
